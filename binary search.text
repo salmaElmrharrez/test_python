@@ -1,0 +1,6 @@
+ the binary search algorithm is the most efficient way to search for a value in a sorted list .
+
+   -> it compares the target value to the middle element of the list
+   -> if they are not equal, we eliminate the half in which the target cannot exist and the search continues on the other half .
+   -> Binary search is faster than the linear search, it reduces the time complexity 
+   -> it makes O(log(n)) comparisons where n = length of the list, while the time complexity of the linear search is O(n)
